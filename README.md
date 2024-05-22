@@ -1,7 +1,6 @@
 # Sir Cedric's Quest: Land of Corruption
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Welcome to Sir Cedric's Quest: Land of Corruption, an immersive OpenGL game where you embark on a heroic journey to cleanse
 the land of an insidious corruption and reclaim your rightful place in the kingdom.
